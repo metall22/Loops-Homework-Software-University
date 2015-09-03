@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem3 Min Max Sum and Average of N numbers\bin\Debug\Problem3 Min Max Sum and Average of N numbers.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem3 Min Max Sum and Average of N numbers\bin\Debug\Problem3 Min Max Sum and Average of N numbers.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem3 Min Max Sum and Average of N numbers\bin\Debug\Problem3 Min Max Sum and Average of N numbers.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem3 Min Max Sum and Average of N numbers\obj\Debug\Problem3 Min Max Sum and Average of N numbers.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem3 Min Max Sum and Average of N numbers\obj\Debug\Problem3 Min Max Sum and Average of N numbers.pdb

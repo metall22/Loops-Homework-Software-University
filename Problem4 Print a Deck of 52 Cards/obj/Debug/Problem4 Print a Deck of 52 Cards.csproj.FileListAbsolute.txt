@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem4 Print a Deck of 52 Cards\bin\Debug\Problem4 Print a Deck of 52 Cards.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem4 Print a Deck of 52 Cards\bin\Debug\Problem4 Print a Deck of 52 Cards.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem4 Print a Deck of 52 Cards\bin\Debug\Problem4 Print a Deck of 52 Cards.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem4 Print a Deck of 52 Cards\obj\Debug\Problem4 Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem4 Print a Deck of 52 Cards\obj\Debug\Problem4 Print a Deck of 52 Cards.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem4 Print a Deck of 52 Cards\obj\Debug\Problem4 Print a Deck of 52 Cards.pdb

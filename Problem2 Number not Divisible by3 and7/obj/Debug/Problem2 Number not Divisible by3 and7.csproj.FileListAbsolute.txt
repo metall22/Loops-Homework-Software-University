@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem2 Number not Divisible by3 and7\bin\Debug\Problem2 Number not Divisible by3 and7.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem2 Number not Divisible by3 and7\bin\Debug\Problem2 Number not Divisible by3 and7.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem2 Number not Divisible by3 and7\bin\Debug\Problem2 Number not Divisible by3 and7.pdb
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem2 Number not Divisible by3 and7\obj\Debug\Problem2 Number not Divisible by3 and7.exe
+c:\users\martin\documents\visual studio 2013\Projects\Homework Loops\Problem2 Number not Divisible by3 and7\obj\Debug\Problem2 Number not Divisible by3 and7.pdb

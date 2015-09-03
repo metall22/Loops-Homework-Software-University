@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem13 Binary to Decimal Convert\bin\Debug\Problem13 Binary to Decimal Convert.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem13 Binary to Decimal Convert\bin\Debug\Problem13 Binary to Decimal Convert.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem13 Binary to Decimal Convert\bin\Debug\Problem13 Binary to Decimal Convert.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem13 Binary to Decimal Convert\obj\Debug\Problem13 Binary to Decimal Convert.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem13 Binary to Decimal Convert\obj\Debug\Problem13 Binary to Decimal Convert.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem13 Binary to Decimal Convert\obj\Debug\Problem13 Binary to Decimal Convert.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem15 Hexdecimal to Decimal\bin\Debug\Problem15 Hexdecimal to Decimal.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem15 Hexdecimal to Decimal\bin\Debug\Problem15 Hexdecimal to Decimal.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem15 Hexdecimal to Decimal\bin\Debug\Problem15 Hexdecimal to Decimal.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem15 Hexdecimal to Decimal\obj\Debug\Problem15 Hexdecimal to Decimal.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem15 Hexdecimal to Decimal\obj\Debug\Problem15 Hexdecimal to Decimal.pdb

@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem5 Calculate\bin\Debug\Problem5 Calculate.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem5 Calculate\bin\Debug\Problem5 Calculate.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem5 Calculate\bin\Debug\Problem5 Calculate.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem5 Calculate\obj\Debug\Problem5 Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem5 Calculate\obj\Debug\Problem5 Calculate.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Problem5 Calculate\obj\Debug\Problem5 Calculate.pdb

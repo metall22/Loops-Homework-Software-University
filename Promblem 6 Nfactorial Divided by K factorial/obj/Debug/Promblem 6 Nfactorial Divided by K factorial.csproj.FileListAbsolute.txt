@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Promblem 6 Nfactorial Divided by K factorial\bin\Debug\Promblem 6 Nfactorial Divided by K factorial.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Promblem 6 Nfactorial Divided by K factorial\bin\Debug\Promblem 6 Nfactorial Divided by K factorial.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Promblem 6 Nfactorial Divided by K factorial\bin\Debug\Promblem 6 Nfactorial Divided by K factorial.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Promblem 6 Nfactorial Divided by K factorial\obj\Debug\Promblem 6 Nfactorial Divided by K factorial.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Promblem 6 Nfactorial Divided by K factorial\obj\Debug\Promblem 6 Nfactorial Divided by K factorial.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Homework Loops\Promblem 6 Nfactorial Divided by K factorial\obj\Debug\Promblem 6 Nfactorial Divided by K factorial.csprojResolveAssemblyReference.cache
